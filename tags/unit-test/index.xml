@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unit Test on Terence&#39;s Blog</title>
+    <link>https://PgooLainn.github.io/tags/unit-test/</link>
+    <description>Recent content in Unit Test on Terence&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://PgooLainn.github.io/tags/unit-test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>單元測試</title>
+      <link>https://PgooLainn.github.io/blog/%E5%96%AE%E5%85%83%E6%B8%AC%E8%A9%A6/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://PgooLainn.github.io/blog/%E5%96%AE%E5%85%83%E6%B8%AC%E8%A9%A6/</guid>
+      <description>Unit Test (單元測試) 定義:   對程式的最小單位，進行正確性的檢驗工作，最小單位可視為單支函式、程式等。
+  在實作或業務上主要是因應專案需求來決定是否採用。
+  經常使用 stubs、mock、fake 等測試程式。
+  優點:   可在軟體開發的早期階段，發現問題並讓後續維護變得更容易。
+  工程師在未來重構程式碼的時候，較能確保原先寫的程式模組正確性，避免不正確的程式影響到後來的程式。
+  劣勢:   單元測試只測試程式單元自身的錯誤，不能發現其他系統級別的問題。
+  如果是團隊工作，而未將單元測試的結果與進度分享給大家，將有可能產生沒什麼效能或重複的單元測試案例。
+  應用:  單元測試可手動進行也可自動運行，但手動進行的單元測試常依賴 Step-by-Step 的教學文件。  參考:  https://zh.wikipedia.org/wiki/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95
+ </description>
+    </item>
+    
+  </channel>
+</rss>

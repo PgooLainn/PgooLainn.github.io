@@ -5,68 +5,86 @@
     <link>https://PgooLainn.github.io/tags/</link>
     <description>Recent content in Tags on Terence&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language>
-    <lastBuildDate>Tue, 10 Nov 2020 20:00:47 +0800</lastBuildDate><atom:link href="https://PgooLainn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-TW</language>
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://PgooLainn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Learing</title>
-      <link>https://PgooLainn.github.io/tags/learing/</link>
-      <pubDate>Tue, 10 Nov 2020 20:00:47 +0800</pubDate>
+      <title>Code</title>
+      <link>https://PgooLainn.github.io/tags/code/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://PgooLainn.github.io/tags/learing/</guid>
+      <guid>https://PgooLainn.github.io/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MarkDown</title>
-      <link>https://PgooLainn.github.io/tags/markdown/</link>
-      <pubDate>Tue, 10 Nov 2020 20:00:47 +0800</pubDate>
+      <title>Unit Test</title>
+      <link>https://PgooLainn.github.io/tags/unit-test/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://PgooLainn.github.io/tags/markdown/</guid>
+      <guid>https://PgooLainn.github.io/tags/unit-test/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Game</title>
-      <link>https://PgooLainn.github.io/tags/game/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>css</title>
+      <link>https://PgooLainn.github.io/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://PgooLainn.github.io/tags/game/</guid>
+      <guid>https://PgooLainn.github.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>HTML</title>
+      <title>html</title>
       <link>https://PgooLainn.github.io/tags/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://PgooLainn.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>New</title>
-      <link>https://PgooLainn.github.io/tags/new/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>markdown</title>
+      <link>https://PgooLainn.github.io/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://PgooLainn.github.io/tags/new/</guid>
+      <guid>https://PgooLainn.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Photos</title>
-      <link>https://PgooLainn.github.io/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>themes</title>
+      <link>https://PgooLainn.github.io/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://PgooLainn.github.io/tags/photos/</guid>
+      <guid>https://PgooLainn.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Python</title>
-      <link>https://PgooLainn.github.io/tags/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>privacy</title>
+      <link>https://PgooLainn.github.io/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://PgooLainn.github.io/tags/python/</guid>
+      <guid>https://PgooLainn.github.io/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://PgooLainn.github.io/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://PgooLainn.github.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://PgooLainn.github.io/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://PgooLainn.github.io/tags/emoji/</guid>
       <description></description>
     </item>
     
